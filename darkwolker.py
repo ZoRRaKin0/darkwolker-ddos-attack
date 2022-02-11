@@ -20,7 +20,7 @@ print ('     4- 40.000 bayt [orta seviye]')
 print(Fore.YELLOW)
 print ('     5- 50.000 bayt [güclü attack]')
 print ('     6- 60.000 bayt [güclü attack]')
-print(fore.RED)
+print(Fore.RED)
 print ('     7- 70.000 bayt [sert attack]')
 
 
