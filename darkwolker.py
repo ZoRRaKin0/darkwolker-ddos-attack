@@ -11,7 +11,7 @@ os.system('php attack_req.php')
 os.system('clear')
 os.system ('figlet Dark WOLKER DDOS')
 
-print(Fore.WHİTE)
+print(Fore.WHITE)
 print ('     1- 10.000 bayt [Başlangıç]')
 print ('     2- 20.000 bayt [Başlangıç]')
 print(Fore.GREEN)
