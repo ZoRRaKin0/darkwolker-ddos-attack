@@ -1,2 +1,2 @@
-# darkwolker-ddos-attackk
+# darkwolker-ddos-attack
 Darkwolker ddos attack programs
